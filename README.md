@@ -8,5 +8,8 @@ The framework used in this project was myQLM, developed by Atos, which documenta
 
 Some packages we need to install:
 
-'pip install myqlm'
-'pip install ipynb'
+pip install myqlm
+pip install ipynb
+
+`pip install myqlm`
+`pip install import-ipynb`
