@@ -11,6 +11,6 @@ Some packages we need to install:
 pip install myqlm
 pip install ipynb
 
-`pip install myqlm
+`pip install myqlm`
 
-pip install import-ipynb`
+`pip install import-ipynb`
