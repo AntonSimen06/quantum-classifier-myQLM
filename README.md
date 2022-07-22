@@ -6,8 +6,6 @@ This [notebook](https://github.com/AntonSimen06/QNN-myQLM/blob/main/qnn/main.ipy
 
 The framework used in this project was myQLM, developed by Atos, which documentation can be found [here](https://myqlm.github.io/index.html).
 
-### Latin American Quantum Computing Center, SENAI CIMATEC
-
 Some packages we need to install:
 
 `pip install myqlm`
